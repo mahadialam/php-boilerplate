@@ -1,8 +1,8 @@
 <?php 
 
-define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'fileupload');
+define('DB_HOST', 'hostname');
+define('DB_USER', 'hostuser');
+define('DB_PASS', 'hostpass');
+define('DB_NAME', 'databasename');
 
 ?>
